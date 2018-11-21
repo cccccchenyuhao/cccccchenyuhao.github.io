@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ‘从闭包到es6变量声明'
+title: '从闭包到es6变量声明'
 subtitle: 'var let const 闭包'
 date: 2018-11-21
 tags: JavaScript es6
